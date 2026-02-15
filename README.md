@@ -11,4 +11,4 @@
 内容说明：
 影迷之家以高清影视内容整理为核心，页面布局较为清晰，更新节奏正常。适合用于查找电影与剧集相关信息。本条记录仅作公开资料存档与索引用途。
 
-video-platform-structure-structuralmatrix
+Site notes: https://lindaoovnj.github.io/video-platform-structure-structuralmatrix/
